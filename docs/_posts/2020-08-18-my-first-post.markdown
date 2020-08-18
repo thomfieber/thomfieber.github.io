@@ -10,7 +10,7 @@ This is my first post on this platform. It's going to take me a little while to 
 
 Just a test...here's a snippet of python code.
 
-'''python
+{% highlight python %}
 def greeting(name):
 	print(f"Hello {name}!")
-'''
+{% endhighlight %}
